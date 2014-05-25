@@ -1,0 +1,892 @@
+name,lower,upper,plus
+1st Klass,1.5,3.0,0
+2 Chainz,75.0,100.0,1
+2 Door Cinema Club,40.0,50.0,0
+21 Pilots,25.0,35.0,1
+3 Doors Down,150.0,250.0,0
+30 Seconds to Mars,40.0,50.0,1
+311,100.0,150.0,0
+38 Special,35.0,45.0,0
+3LAU,20.0,30.0,0
+3OH!3,40.0,50.0,0
+50 Cent,250.0,350.0,1
+A Few Good Men,2.0,3.0,0
+A Great Big World,30.0,40.0,1
+A Static Lullaby,3.0,5.0,0
+A Track,15.0,25.0,0
+A$AP Rocky,85.0,120.0,0
+Aaron Tippin,25.0,40.0,0
+Adam Lambert,85.0,125.0,0
+Adele,750.0,750.0,1
+Adventure Club,15.0,20.0,0
+Afrojack,75.0,100.0,0
+Against Me,50.0,50.0,1
+Airborne Toxic Event,20.0,25.0,1
+Akon,75.0,100.0,1
+Alabama Shakes,90.0,125.0,1
+Alanis Morrisette,100.0,150.0,0
+Alesso,85.0,125.0,0
+Alex Clare,30.0,50.0,0
+Alexa Ray Joel,5.0,10.0,0
+Alexis Jordan,10.0,15.0,0
+Alicia Keys,350.0,500.0,0
+Alien Ant Farm,10.0,20.0,0
+All American Rejects,50.0,75.0,0
+All Time Low,35.0,45.0,0
+Allen Stone,20.0,40.0,0
+Aloe Blacc,25.0,40.0,0
+American Authors,50.0,50.0,1
+Amerie,20.0,30.0,0
+Anberlin,20.0,30.0,0
+Andrew Allen,15.0,25.0,0
+Andrew Bird,35.0,45.0,0
+Andrew McMachon (,30.0,40.0,0
+Andrew WK,20.0,30.0,0
+Andy Grammer,30.0,40.0,1
+Ani Difranco,30.0,50.0,0
+Anna Kendrick,35.0,50.0,1
+Anna Lunoe,1.0,5.0,0
+Anthony Hamilton,40.0,50.0,0
+Arcade Fire,150.0,150.0,1
+Arctic Monkeys,75.0,100.0,0
+Ari Hest,5.0,5.0,1
+Arrested Developmen,15.0,20.0,0
+As Tall As Lions,5.0,10.0,0
+Ashanti,25.0,40.0,0
+Asher Roth,17.5,25.0,0
+Atmosphere,30.0,50.0,1
+Augustan,15.0,20.0,0
+Austin Mahone,50.0,50.0,1
+Authority Zero,3.0,5.0,0
+Avenged Sevenfold,100.0,100.0,1
+Avicii,150.0,200.0,1
+Awolnation,40.0,60.0,1
+Axwell,100.0,100.0,1
+B.o.B.,60.0,80.0,0
+BB King,75.0,100.0,0
+Baby Bash,10.0,20.0,0
+Bag Raiders,7.5,10.0,0
+Barenaked Ladies,75.0,125.0,0
+Bassnectar,100.0,150.0,1
+Bastille,40.0,60.0,1
+Bayside,7.0,10.0,1
+Bedouin Soundclash,5.0,10.0,0
+Beebs & Moneymaker,5.0,10.0,0
+Beenie Man,15.0,20.0,0
+Beirut,25.0,35.0,1
+Ben Folds,40.0,50.0,0
+Ben Harper,100.0,150.0,0
+Ben Kweller (band),10.0,15.0,0
+Ben Kweller (solo),7.5,12.5,0
+Ben Lee,7.0,10.0,0
+Ben Rector,10.0,20.0,0
+Beth Hart,7.5,10.0,0
+Better Than Ezra,20.0,30.0,0
+Between the Trees,10.0,10.0,1
+Big & Rich,100.0,100.0,1
+Big Bad Vodoo Doddy,20.0,25.0,0
+Big Boi,40.0,60.0,1
+Big D & the Kids Tab,5.0,7.5,0
+Big Gigantic,35.0,50.0,1
+Big Head Todd & Mo,25.0,30.0,1
+Big Sam's Funky Nati,5.0,10.0,0
+Big Scan,50.0,75.0,0
+Billy Currington,75.0,100.0,1
+Billy Ray Cyrus,40.0,50.0,1
+Biz Markie,10.0,15.0,0
+Black Crowes,40.0,50.0,0
+Black Eyed Peas,400.0,500.0,0
+Black Violin,5.0,10.0,0
+Blackberry Smoke,20.0,25.0,0
+Blair Crimmins & Ho,3.0,5.0,0
+Blake Lewis,10.0,10.0,1
+Blake Shelton,250.0,400.0,0
+Blaq Audio,10.0,15.0,0
+Blessid Union of Soul,5.0,10.0,0
+Blonde Readhead,20.0,20.0,1
+Blue October,25.0,45.0,0
+Blues Traveler,30.0,40.0,0
+Bo Bice (band),7.5,12.5,0
+Bo Bice (solo),3.5,7.5,0
+Bob Dylan,150.0,300.0,0
+Bob Schneider,20.0,30.0,0
+Bobby Valentino,12.0,20.0,0
+Bon Jovi,1000.0,1000.0,1
+Bone Thugs & Harm,25.0,30.0,1
+Bonnie Raitt,100.0,150.0,0
+BoomBox,2.5,5.0,0
+Borgore,20.0,30.0,0
+Bowling For Soup,15.0,20.0,0
+Boys Like Girls,50.0,50.0,1
+Brandi Carlisle,25.0,30.0,0
+Brandon Flowers,75.0,100.0,1
+Brantley Gilbert,150.0,200.0,1
+Breaking Benjamin,100.0,200.0,0
+Breathe Carolina,15.0,25.0,0
+Bret Michaels,50.0,75.0,1
+Brett Dennen,25.0,40.0,1
+Britney Spears,500.0,500.0,1
+Broken Bells,20.0,35.0,1
+Broken Social Scene,35.0,50.0,0
+Brooke Valentine,15.0,20.0,0
+Brooke Waggoner,1.5,3.0,0
+Bruce Hornsby,35.0,50.0,1
+Bruce Springsteen,1000.0,1000.0,1
+Bruno Mars,200.0,400.0,0
+Busta Rhymes,50.0,75.0,0
+C2C,20.0,20.0,0
+Cage the Elephant,50.0,60.0,0
+Caifanes,100.0,100.0,1
+Cake,50.0,50.0,1
+Calvin Harris,150.0,150.0,1
+Can Money,15.0,15.0,0
+Candlebox,15.0,20.0,0
+Capital Cities,40.0,60.0,1
+Carly Rae Jensen,90.0,125.0,0
+Carolina Liar,25.0,35.0,0
+Carrie Underwood,400.0,500.0,1
+Cartel,15.0,25.0,0
+Cat Power,50.0,75.0,0
+Cee Lo Green,100.0,150.0,1
+Chamillionaire,20.0,30.0,0
+Charlie Daniels Band,40.0,50.0,0
+Charlie Mars,10.0,10.0,1
+Charlie Robison,7.0,10.0,0
+Charlie Worsham,5.0,10.0,0
+Cheap Trick,45.0,70.0,0
+Cher Lloyd,30.0,50.0,0
+Chester French,7.5,15.0,0
+Chevelle,40.0,60.0,1
+Chiddy Bang,25.0,40.0,0
+Childish Gambino,75.0,100.0,1
+China Hawk,1.5,2.5,0
+Chingy,20.0,30.0,0
+Chpse,15.0,20.0,0
+Chris Botti,50.0,50.0,1
+Chris Brown,250.0,400.0,1
+Chris Cagle,20.0,30.0,0
+Chris Comell,50.0,50.0,1
+Chris Webby,8.5,15.0,0
+Chris Young,40.0,60.0,0
+Chrisette Michelle,20.0,20.0,1
+Christina Aguilera,350.0,500.0,1
+Christina Milan,20.0,25.0,0
+Christina Perri,20.0,35.0,0
+Chromeo,40.0,50.0,0
+Chuck Leaven,15.0,25.0,0
+Churchill,15.0,25.0,0
+Chvrches,30.0,50.0,0
+Ciara,75.0,100.0,0
+Circa Survive,25.0,25.0,0
+Citizen Cope,30.0,40.0,0
+Clap Your Hands Say,15.0,15.0,1
+Clay Aiken,85.0,100.0,1
+Clint Black,75.0,75.0,1
+Cloud Cult,10.0,20.0,0
+Clutch,10.0,20.0,0
+Cobra Starship,40.0,60.0,0
+Coheed & Cambria,40.0,50.0,1
+Colbie Callait,50.0,75.0,0
+Colby O'Donis,15.0,20.0,0
+Cold War Kids,30.0,40.0,1
+Coldplay,750.0,750.0,1
+Collective Soul,30.0,40.0,1
+Colt Ford,15.0,30.0,0
+Common,40.0,50.0,0
+Confederate Railroad,7.5,7.5,0
+Connor Cruise,5.0,5.0,0
+Coolio,20.0,20.0,1
+Corey Smith,20.0,30.0,1
+Counting Crows,150.0,150.0,1
+Cowboy Mouth,15.0,20.0,0
+Cowboy Troy,3.5,10.0,0
+Coyote Kisses,5.0,10.0,0
+Cracker,10.0,20.0,0
+Craig Morgan,35.0,50.0,0
+Creed,100.0,100.0,1
+Creedence Clearwater,50.0,60.0,0
+Crystal Bowersox,10.0,20.0,1
+Cults,12.0,15.0,0
+Cute Is What We Aim,15.0,20.0,0
+DJ Earworm,7.0,10.0,1
+DJ Farcoh,5.0,10.0,0
+DJ Green Lantern,5.0,10.0,0
+DJ Logic,4.0,7.0,0
+DJ Pauly D,40.0,60.0,1
+DJ Red Foo,100.0,150.0,0
+DJ Shadow,25.0,25.0,0
+DJ Skribble,7.0,10.0,0
+Da Brat,20.0,30.0,0
+Damian Marley,100.0,100.0,1
+Danny Brown,10.0,10.0,1
+Danny Gokey,30.0,30.0,1
+Dar Williams,7.5,10.0,1
+Darius Rucker,90.0,125.0,0
+Darry Miller & Veil,3.0,5.0,0
+Daryl Worley,30.0,50.0,0
+Dashboard Confessio,40.0,50.0,0
+Daughtry,200.0,300.0,1
+Dave Barnes,7.0,10.0,0
+Dave Matthews,1000.0,1000.0,1
+Dave Matthews Trib,5.0,10.0,0
+David Archuletta,30.0,50.0,1
+David Banner,10.0,20.0,0
+David Cook,20.0,40.0,0
+David Crosby & Grah,35.0,50.0,0
+David Gray,100.0,200.0,0
+David Guetta,150.0,250.0,0
+Days Difference,5.0,10.0,0
+De La Soul,15.0,20.0,0
+Dead Confederate,2.5,5.0,0
+Deadmau5,200.0,250.0,1
+Dear Tick,5.0,10.0,0
+Death Cab For Cutie,85.0,125.0,0
+Decemberists,60.0,90.0,0
+Default,10.0,10.0,1
+Demi Lovato,100.0,200.0,1
+Dennis,3.5,5.0,0
+Devotchka,25.0,25.0,0
+Diamond Rio,40.0,60.0,1
+Dierks Bentley,100.0,150.0,0
+Dionne Warwick,50.0,50.0,1
+Dirt Dozen Brass Ban,10.0,10.0,0
+Dirty Heads,5.0,10.0,0
+Disco Biscuits,10.0,15.0,0
+Dispatch,75.0,100.0,1
+Disturbed,50.0,75.0,0
+Divine Fits,25.0,30.0,0
+Don Williams,50.0,50.0,0
+Drake,300.0,500.0,1
+Drew Davis Band,5.0,10.0,0
+Drive By Truckers,20.0,30.0,0
+Drop City Yacht Club,20.0,40.0,0
+Dropkick Murphys,50.0,75.0,0
+Dropping Daylight,5.0,10.0,0
+Drowning Pool,10.0,20.0,0
+Duncan Sheik,10.0,20.0,0
+Dustin Lynch,15.0,25.0,0
+E-603,3.0,4.0,0
+Eagles of Death Meta,35.0,45.0,0
+Easton Corbin,40.0,60.0,1
+Ed Shereen,125.0,125.0,1
+Editors,25.0,35.0,0
+Edward Sharpe & Ma,50.0,50.0,1
+Edwin McCain,10.0,20.0,0
+Eli Young Band,75.0,75.0,1
+Ellie Goulding,100.0,200.0,0
+Elvis Crespo,35.0,50.0,0
+Emerson Drive,15.0,15.0,0
+Eric Church,150.0,200.0,1
+Eric Hutchinson,15.0,20.0,0
+Erykah Badu,75.0,100.0,0
+Evans Blue,5.0,10.0,1
+Eve 6,15.0,20.0,0
+Everclear,20.0,20.0,1
+Everlast,15.0,20.0,0
+Every Avenue,5.0,5.0,1
+Fabolous,25.0,40.0,0
+Faith Evans,35.0,50.0,0
+Faith Hill,500.0,500.0,1
+Fall Out Boy,100.0,150.0,1
+Family Force Five,15.0,20.0,0
+Fang Island,5.0,10.0,0
+Fantasia,100.0,100.0,1
+Fastball,10.0,15.0,0
+Fat Joe,30.0,50.0,0
+Feed Me,25.0,40.0,0
+Feist,50.0,60.0,0
+Filter,10.0,20.0,0
+Finger Eleven,25.0,30.0,0
+Fitz & the Tantrums,30.0,50.0,0
+Five Finger Death Pu,50.0,75.0,0
+Five For Fighting (sol,15.0,25.0,0
+Flatbush Zombies,5.0,5.0,0
+Flo Rida,100.0,150.0,1
+Flobots,15.0,20.0,0
+Flogging Molly,25.0,40.0,0
+Florence & the Machi,150.0,250.0,1
+Florida Georgia Line,250.0,500.0,0
+Flyleaf,30.0,40.0,0
+Fonseca,50.0,50.0,0
+Foo Fighters,500.0,500.0,1
+For East Movement,20.0,40.0,0
+Foreigner,40.0,50.0,1
+Forever the Sickest ID,10.0,15.0,0
+Foster The People,150.0,250.0,1
+Fountains of Wayne,20.0,30.0,0
+Four Year Strong,10.0,10.0,1
+Frank Ocean,100.0,150.0,1
+Freelance Whales,15.0,15.0,0
+French Montana,30.0,50.0,0
+Fuel,10.0,15.0,0
+Fun.,200.0,400.0,0
+Future,40.0,60.0,0
+G-Eazy,5.0,7.0,0
+G. Love,50.0,50.0,1
+Galactic,20.0,30.0,1
+Gary Allan,50.0,75.0,1
+Gaslight Anthem,20.0,30.0,1
+Gavin DeGraw,50.0,75.0,1
+George Clinton,20.0,25.0,0
+Ghostface,20.0,25.0,0
+Gin Blossoms,20.0,30.0,0
+Girl Talk,35.0,50.0,0
+Glen Phillips,5.0,10.0,0
+Gloriana,20.0,25.0,0
+Godamack,85.0,125.0,0
+Gogol Bordello,50.0,50.0,1
+Goldfinger,20.0,30.0,0
+Gomez,20.0,30.0,0
+Goo Goo Dolls,75.0,100.0,1
+Gotye,75.0,100.0,1
+Grace Potter & Noctu,25.0,40.0,1
+Graham Colton,3.5,5.0,0
+Green Day,500.0,500.0,1
+Green River Ordinanc,7.5,10.0,0
+Gretchen Wilson,60.0,85.0,0
+Griffin House,3.0,5.0,0
+Grizzly Bear,50.0,75.0,0
+GroupLove,50.0,75.0,1
+Gucci Mane,20.0,30.0,0
+Guster,25.0,30.0,1
+Gym Class Heroes,75.0,75.0,1
+Gypsy Kings,75.0,100.0,1
+Hal Ketchum,10.0,20.0,0
+Hank Williams Jr.,100.0,100.0,1
+Hanson,25.0,30.0,0
+Hellogoodbye,12.5,17.5,0
+Hitrecord-JosGorLevi,30.0,40.0,0
+Holy Ghost!,10.0,20.0,0
+Hoobastank,20.0,30.0,0
+Hot Chelle Rae,50.0,75.0,1
+Howie Day,10.0,20.0,0
+Hunter Hayes,150.0,200.0,1
+Ice Cube,30.0,30.0,1
+Imagine Dragons,400.0,600.0,0
+Incubus,80.0,120.0,1
+India.Arie,50.0,75.0,0
+Indigo Girls,15.0,20.0,0
+Ingram Hill,4.0,10.0,0
+Ingrid Michaelson,35.0,50.0,1
+It Boys,7.0,10.0,0
+J. Cole,150.0,150.0,1
+J. Holiday,25.0,30.0,0
+JET,25.0,35.0,0
+Ja Rule,40.0,50.0,0
+Jack Ingram,25.0,30.0,0
+Jack's Mannequin,40.0,60.0,0
+Jadakiss,20.0,30.0,1
+Jake Miller,10.0,15.0,0
+Jake Owen,150.0,250.0,0
+Jakob Dylan,25.0,40.0,1
+James Bay,5.0,15.0,0
+James Blunt,85.0,125.0,0
+James Otto,10.0,20.0,0
+James Taylor,1000.0,1000.0,1
+Janelle Monae,40.0,75.0,1
+Janes Addiction,100.0,100.0,0
+Jason Adamo Band,1.0,2.0,0
+Jason Aldean,500.0,500.0,1
+Jason Derulo,75.0,75.0,1
+Jason Michael Carroll,20.0,30.0,0
+Jason Mraz,150.0,250.0,1
+Jay Sean,40.0,60.0,0
+Jeff The Brotherhood,7.5,15.0,0
+Jefferson Starship,15.0,25.0,0
+Jeffrey Gaines,3.0,5.0,0
+Jennifer Hudson,200.0,400.0,1
+Jeremih,12.5,17.5,0
+Jessica Simpson,150.0,150.0,1
+Jewel,75.0,100.0,0
+Jhcne Aiko,25.0,40.0,1
+Jill Scott,80.0,125.0,0
+Jill Sobule,5.0,5.0,1
+Jimmie's Chicken Sha,3.0,7.0,0
+Jo Dee Messina,35.0,45.0,0
+Joan Jett,40.0,60.0,1
+Joel Levi,2.0,5.0,0
+John Anderson,20.0,20.0,0
+John Legend,150.0,200.0,0
+John Mayer,500.0,500.0,1
+John Michael Montgo,35.0,50.0,1
+John Newman,30.0,50.0,1
+John Popper Project,20.0,20.0,1
+John Secada,40.0,60.0,1
+Jon McLaughlin,10.0,15.0,1
+Jonathan Davis of Ka,10.0,20.0,0
+Josh Gracin,10.0,20.0,0
+Josh Groben,350.0,500.0,1
+Josh Hogue,2.5,5.0,0
+Josh Kelley,8.5,15.0,0
+Josh Thompson,15.0,25.0,0
+Josh Turner,60.0,90.0,0
+Joshua Radin,10.0,15.0,0
+Juanes,200.0,200.0,1
+Juicy J,40.0,60.0,1
+Julian Marley,30.0,30.0,0
+Junior Doctor,10.0,20.0,1
+Jurassic 5,40.0,50.0,0
+Justin Bieber,1000.0,1000.0,1
+Justin Moore,40.0,60.0,1
+Justin Nozuka,10.0,20.0,0
+Justin Timberlake,1000.0,1000.0,1
+K'Naan,25.0,35.0,0
+KC&Sunshine Band,50.0,75.0,0
+Kaiser Chiefs,25.0,35.0,0
+Kaki King,5.0,5.0,1
+Kaki King,10.0,10.0,1
+Kanye West,400.0,600.0,1
+Karmin,40.0,50.0,1
+Kaskade,100.0,100.0,1
+Kat Deluna,8.0,10.0,0
+Kate Voegele,10.0,10.0,1
+Katherine McPhee,100.0,100.0,0
+Katy Perry,500.0,500.0,1
+Ke$ha,150.0,200.0,0
+Keith Anderson,20.0,25.0,0
+Keith Urban,400.0,600.0,1
+Kelis,30.0,30.0,1
+Kelleigh Bannen,5.0,7.5,0
+Kellie Pickler,60.0,80.0,0
+Kelly Bell Band,2.5,5.0,0
+Kelly Clarkson,150.0,300.0,0
+Kelly Rowland,50.0,100.0,0
+Kendrick Lamar,150.0,150.0,1
+Kenny Rogers,50.0,80.0,0
+Kenny Wayne Shephe,35.0,35.0,0
+Kentucky Headhunter,20.0,20.0,0
+Keri Hilson,50.0,75.0,1
+Kevin Rudolf,20.0,25.0,0
+Keyshia Cole,85.0,100.0,0
+Kid Cudi,150.0,150.0,1
+Kid INK,20.0,40.0,1
+Kid Ink,40.0,75.0,0
+Kid Rock,200.0,300.0,1
+Kill Hannah,5.0,7.0,0
+Kina Grannis,5.0,10.0,0
+King Chip The Ripper,10.0,20.0,0
+Kings X,5.0,7.5,0
+Kings of Leon,400.0,500.0,1
+Kip Moore,100.0,150.0,0
+Kitty Pryde,5.0,5.0,0
+Kom,85.0,125.0,0
+Kongos,20.0,40.0,0
+Kopecky Family Baru,10.0,15.0,0
+Kreayshawn,10.0,25.0,0
+Krewella,50.0,75.0,0
+Kris Allen,10.0,20.0,0
+LA Riots,5.0,5.0,0
+LIT,10.0,20.0,0
+LL Cool J,100.0,150.0,1
+LMFAO,250.0,250.0,1
+LP,7.5,7.5,0
+La Roux,25.0,40.0,0
+Lady Antebellum,250.0,400.0,1
+Lady Gaga,750.0,750.0,1
+Lana Del Ray,75.0,75.0,1
+Larry Gatlin,25.0,30.0,0
+Le Cashe Vania,10.0,20.0,0
+Leann Rimes,50.0,75.0,0
+Lee Ann Womack,50.0,80.0,0
+Lee Brice,40.0,60.0,1
+Lee DeWyze,10.0,15.0,0
+Less Than Jake,15.0,20.0,0
+Lifehouse,85.0,100.0,1
+Lights,10.0,15.0,0
+Lil' Wayne,350.0,500.0,1
+Linkin Park,400.0,500.0,1
+Little Big Town,100.0,150.0,0
+Lloyd,20.0,30.0,0
+Lloyd Dobler Effect,2.0,5.0,0
+Local Natives,30.0,30.0,1
+Logic,20.0,25.0,0
+Lonestar,60.0,75.0,1
+Lord T. & Eloise,2.5,5.0,0
+Lorde,150.0,250.0,0
+Lorrie Morgan,35.0,40.0,0
+Los Lobos,20.0,35.0,0
+Los Lonely Boys,25.0,40.0,0
+Lotus,25.0,30.0,0
+Louie Morgan,25.0,25.0,1
+Love & Theft,20.0,30.0,0
+Ludacris,60.0,80.0,0
+Ludo,10.0,20.0,0
+Luke Bryan,250.0,400.0,0
+Luke Christopher,5.0,5.0,1
+Lupe Fiasco,60.0,85.0,0
+MC Chris,4.0,6.0,0
+MC Lars,2.5,5.0,0
+MGMT,85.0,100.0,1
+MIA,40.0,50.0,1
+MIMS,10.0,10.0,1
+MOE,35.0,50.0,1
+Mac Miller,85.0,100.0,1
+Macklemore,200.0,300.0,1
+Macy Gray,20.0,30.0,1
+Madonna,1000.0,1000.0,1
+Maps & Atlasas,3.0,5.0,0
+Marc Broussard,15.0,20.0,1
+Marc Colin,10.0,15.0,0
+Margo & the Nuclear,5.0,10.0,0
+Mario,20.0,30.0,0
+Mark Wills,20.0,20.0,1
+Maroon 5,400.0,600.0,1
+Martina McBride,125.0,175.0,0
+Mason Jennings,7.0,10.0,0
+Mat Kearney,20.0,30.0,1
+Matchbox 20,150.0,250.0,1
+Matisyahu,40.0,50.0,1
+Matt & Kim,35.0,50.0,1
+Matt Costa,7.0,10.0,0
+Matt Nathanson,40.0,60.0,1
+Matt Wertz,7.0,10.0,0
+Max Weinberg Big Ba,15.0,20.0,1
+Maxwell,100.0,100.0,1
+Mayday Parade,15.0,25.0,0
+Menomena,7.0,10.0,0
+Merle Haggard,100.0,100.0,0
+Michael Franti & Spe,40.0,60.0,0
+Michael Glabicki,3.0,5.0,0
+Michael Kiwanuka,20.0,50.0,0
+Michael Tolcher,3.0,5.0,0
+Michelle Branch,30.0,40.0,0
+Mighty Mighty Bosst,40.0,50.0,0
+Miguel,45.0,75.0,0
+Miike Snow(DJ Only,30.0,30.0,0
+Mike Doughty,7.0,10.0,0
+Mike Gordon,20.0,20.0,1
+Mike Posner,40.0,50.0,0
+Mindy Smith,10.0,20.0,0
+Minus The Bear,30.0,30.0,0
+Miranda Lambert,150.0,250.0,1
+Mobb Deep,20.0,30.0,0
+Mogwai,25.0,35.0,0
+Montell Jordan,20.0,30.0,0
+Moon Taxi,5.0,10.0,0
+Mord Fustang,25.0,35.0,0
+Morrissey,100.0,100.0,0
+Motion City Soundtra,30.0,40.0,0
+Mumford & Sons,500.0,750.0,1
+Muse,150.0,150.0,1
+Musiq,25.0,30.0,0
+Mute Math,25.0,35.0,0
+Myth Busters,100.0,150.0,0
+N. Miss All-Stars,10.0,15.0,0
+NERD,50.0,75.0,1
+Nappy Roots,5.0,10.0,0
+Nas,75.0,100.0,1
+Natalie Stovall,5.0,10.0,0
+Naturally 7,20.0,20.0,1
+Navid Izadi,5.0,10.0,0
+Ne-Yo,75.0,100.0,0
+Needtobreathe,45.0,60.0,0
+Nelly's Echo,1.5,2.0,0
+Neon Trees,40.0,45.0,0
+Nervo,25.0,35.0,0
+New Boyz,15.0,20.0,0
+NexCyx,3.0,5.0,0
+Nick Monaco,5.0,10.0,0
+Nickel Creek,40.0,60.0,0
+Nicki Minaj,200.0,300.0,1
+Nickleback,350.0,500.0,0
+Nitty Gritty Dirt Band,25.0,30.0,1
+No Doubt,500.0,750.0,1
+Noah & the Whale,10.0,15.0,0
+Norah Jones,50.0,75.0,0
+OAR,60.0,80.0,0
+OK Go,35.0,50.0,0
+Odd Future,50.0,75.0,0
+Of Monsters & Men,150.0,250.0,1
+Of Montreal,15.0,25.0,0
+Old 97's,20.0,25.0,0
+Olly Murs,40.0,60.0,0
+One Direction,150.0,200.0,1
+One Eskimo,8.0,15.0,0
+One Republic,100.0,200.0,0
+Owl City,40.0,60.0,1
+Ozomatli,20.0,30.0,0
+P.O.D.,30.0,40.0,0
+PM Dawm,5.0,10.0,0
+PSY,100.0,150.0,0
+Pam Tillis,20.0,20.0,0
+Panic! At the Disco,50.0,50.0,1
+Paolo Nutini,20.0,30.0,0
+Papa Roach,40.0,50.0,1
+Parachute,15.0,20.0,0
+Paramore,125.0,175.0,0
+Passenger,25.0,35.0,1
+Passion Pit,100.0,150.0,0
+Pat Benatar,50.0,75.0,0
+Pat Green,25.0,40.0,0
+Pat McGee Band,5.0,10.0,0
+Pat Travers,15.0,20.0,0
+Paul Wall,10.0,20.0,0
+Pearl Jam,300.0,500.0,0
+People Under the Stai,7.0,10.0,0
+Pepper,25.0,50.0,0
+Perpetual Groove,10.0,15.0,0
+Pharrell Williams,125.0,175.0,1
+Phil Vassar,40.0,75.0,0
+Philip 7,3.0,5.0,0
+Phillip Phillips,65.0,85.0,0
+Phoenix,100.0,100.0,1
+Phosphorescent,7.5,7.5,0
+Pink,400.0,600.0,1
+Pitbull,200.0,300.0,1
+Plain White T's,30.0,40.0,0
+Pleasure P,15.0,20.0,0
+Plies,20.0,30.0,0
+Portugal the Man,10.0,15.0,0
+Presidents of the USA,15.0,20.0,0
+Pretty Lights,150.0,150.0,1
+Public Enemy,20.0,30.0,1
+Puddle of Mudd,35.0,50.0,0
+Q-Tip,25.0,30.0,0
+Queens of the Stone A,75.0,125.0,0
+Quiet Riot,12.5,25.0,0
+Quietdrive,5.0,10.0,0
+R3hab,25.0,35.0,0
+RED,25.0,30.0,0
+Ra Ra Riot,10.0,20.0,0
+Rakim,15.0,20.0,1
+Rascal Flatts,400.0,600.0,1
+Ratking,2.5,2.5,0
+Ray Price,20.0,20.0,0
+Rebirth Brass Band,10.0,15.0,0
+Red Jumpsuit Apparat,15.0,25.0,0
+Red Wanting Blue,5.0,10.0,0
+Redlight King,15.0,25.0,1
+Redman/Methodman,30.0,40.0,0
+Reel Big Fish,15.0,20.0,0
+Regina Spektor,35.0,50.0,1
+Rehab,7.0,15.0,0
+Relient K,25.0,30.0,0
+Rev Theory,10.0,20.0,0
+RhettAtkins,10.0,15.0,0
+Rick Ross,30.0,50.0,0
+Rick Springfield,40.0,60.0,0
+Rihanna,500.0,750.0,1
+Rise Against,75.0,100.0,1
+Rob Thomas,100.0,200.0,0
+Robert Randolph,20.0,30.0,0
+Robin Thicke,150.0,250.0,1
+Rogue Wave,15.0,20.0,0
+Rooney,12.5,20.0,0
+Rufus Waimight(solo),25.0,35.0,0
+Rusted Root,12.5,20.0,0
+Ryan Cabrera,7.0,10.0,0
+Ryan Star,7.0,10.0,1
+Rye Rye,5.0,5.0,0
+SafetySuit,7.5,15.0,0
+Sam Moore,20.0,20.0,1
+Sammy Adams,25.0,35.0,0
+Santigold,40.0,60.0,0
+Sara Bareilles,50.0,75.0,0
+Sara Evans,50.0,75.0,1
+Saving Abel,20.0,20.0,1
+Say Anything,25.0,350.0,0
+Scan Kingston,30.0,30.0,1
+Scarletta,2.0,5.0,0
+Scary Kids Scaring K,5.0,10.0,0
+Schoolboy Q,25.0,40.0,0
+Scratch & Haag,2.0,5.0,0
+Sea Wolf,10.0,10.0,1
+Sebastian Ingrosso,100.0,100.0,0
+Secondhand Serenade,10.0,17.5,0
+Secret Machines,8.0,10.0,0
+Seether,75.0,100.0,0
+Selena Gomez,85.0,125.0,1
+Sevendust,30.0,40.0,0
+Sevyn Streeter,30.0,40.0,0
+Shakira,300.0,500.0,0
+Shawn Mullins,10.0,15.0,0
+She Wants Revenge,20.0,20.0,1
+Shedaisy,40.0,60.0,1
+Sheryl Crow,150.0,200.0,0
+Shinedown,75.0,100.0,1
+Shooter Jennings,15.0,20.0,0
+Shwayze,10.0,15.0,0
+Sick Puppies,25.0,35.0,0
+Sierra Leone's Rufuge,10.0,10.0,0
+Silversun Pickups,25.0,40.0,0
+Simple Plan,25.0,40.0,0
+Sister Hazel,15.0,25.0,0
+Skillet,50.0,75.0,1
+Slash,45.0,65.0,0
+Sleigh Bells,30.0,30.0,0
+Slightly Stoopid,40.0,60.0,1
+Slum Village,15.0,20.0,0
+Smash Mouth,40.0,60.0,0
+Smashing Pumpkins,200.0,400.0,0
+Snoop Dog/Lion,75.0,100.0,0
+Snow Patrol,50.0,50.0,1
+Soka Kartel,3.0,5.0,0
+Solange Knowles,10.0,20.0,0
+Sons of Sylvia,5.0,10.0,1
+Soul Asylum,20.0,20.0,1
+Soulja Boy,50.0,75.0,1
+Spearhead,20.0,20.0,1
+Sponge,7.0,10.0,0
+Spoon,30.0,30.0,1
+Spring Standards,5.0,10.0,0
+St. Lucia,10.0,15.0,0
+St. Vincent,20.0,30.0,1
+Staind,60.0,80.0,0
+State Radio,15.0,25.0,0
+Steel Train,15.0,20.0,1
+Stephen Kellogg,7.0,10.0,0
+Steve Aoki,50.0,75.0,1
+Steve Martin & Steep,75.0,100.0,0
+Steve Miller Band,100.0,200.0,0
+Steven Marley,15.0,20.0,0
+Stockholm Syndrome,20.0,25.0,0
+Stone Temple Pilots,250.0,400.0,1
+Story of the Year,10.0,15.0,0
+Street Dogs,7.5,7.5,0
+Street Drum Corps,5.0,10.0,0
+Stroke 9,7.0,10.0,0
+Sublime w/ Rome,100.0,150.0,1
+Sugar Ray,30.0,50.0,0
+Sugarcult,10.0,10.0,1
+Sugarland,200.0,300.0,0
+Sum 41,30.0,50.0,0
+Super Mash Bros,15.0,20.0,0
+Surfer Blood,10.0,15.0,0
+Susan Boyle,150.0,250.0,0
+Switchfoot,30.0,40.0,0
+T-Pain,35.0,45.0,0
+Taio Cruz,90.0,120.0,0
+Taking Back Sunday,50.0,75.0,1
+Talib Kweli,25.0,30.0,1
+Tame Impala,10.0,10.0,1
+Taylor Swift,1000.0,1000.0,1
+Teddy Geiger,5.0,10.0,0
+Terri Clark,30.0,50.0,0
+The 88,5.0,5.0,1
+The Almost,8.0,10.0,1
+The Alternate Routes,5.0,10.0,0
+The Antlers,10.0,15.0,0
+The Avett Bros,175.0,250.0,0
+The Band Perry,150.0,250.0,1
+The Black Angels,10.0,10.0,0
+The Bodeen,10.0,10.0,0
+The Bravery,30.0,40.0,0
+The Cab,7.5,12.5,0
+The Civil Wars,85.0,100.0,1
+The Connells,7.5,12.5,0
+The Cool Kids,12.5,20.0,0
+The Crickets,10.0,20.0,0
+The Crystal Method,10.0,15.0,0
+The Dandy Warhols,40.0,50.0,0
+The Daylights,3.0,10.0,0
+The Dear Hunter,10.0,15.0,0
+The Dream,40.0,75.0,0
+The English Beat,5.0,10.0,0
+The Fenn,10.0,15.0,0
+The Flaming Lips,100.0,125.0,0
+The Fratellis,15.0,25.0,0
+The Fray,150.0,200.0,1
+The Game,30.0,50.0,1
+The Gay Blades,3.0,5.0,0
+The Hush Sound,15.0,20.0,0
+The Killers,500.0,500.0,1
+The Lonely Forest,5.0,5.0,0
+The Lost Trailers,7.0,10.0,0
+The Lumineers,150.0,250.0,1
+The Morning Benders,15.0,20.0,0
+The National,30.0,40.0,1
+The Neighborhood,40.0,60.0,1
+The Offspring,100.0,100.0,1
+The Ready Set,10.0,15.0,0
+The Roots,60.0,80.0,1
+The Script,125.0,175.0,1
+The Starting Line,40.0,60.0,1
+The Stone Foxes,5.0,5.0,0
+The Summer Set,10.0,15.0,0
+The Temper Trap,25.0,35.0,0
+The Ting Tings,40.0,50.0,1
+The Toasters,3.0,5.0,0
+The Trews,3.0,5.0,0
+The Verve Pipe,7.0,10.0,0
+The Wailers,20.0,30.0,1
+The Wallflowers,35.0,50.0,0
+The Wanted,85.0,125.0,0
+The Weenies,15.0,15.0,0
+The Well Reds,1.0,2.0,0
+The Working Title,2.5,5.0,0
+Theory of a Deadman,40.0,75.0,0
+Third Eye Blind,65.0,75.0,0
+This Providence,5.0,5.0,0
+This Providence,10.0,10.0,1
+Thompson Square,40.0,50.0,0
+Three 6 Mafia,25.0,40.0,0
+Three Days Grace,75.0,100.0,0
+Tiesto,200.0,400.0,1
+Tim McGraw,500.0,500.0,1
+Timeflies,40.0,60.0,1
+Tipper,7.5,7.5,0
+Toby Keith,350.0,500.0,0
+Toby Mac,40.0,60.0,1
+Tom Morello,10.0,20.0,0
+Tone Loc,10.0,10.0,1
+Toots & the Maytals,25.0,30.0,0
+Tori Amos,50.0,100.0,0
+Tracy Lawrence,40.0,60.0,0
+Train,200.0,300.0,1
+Travie McCoy (GCH),40.0,40.0,1
+Travis Porter,20.0,30.0,0
+Travis Tritt,75.0,100.0,0
+Trey Songz,85.0,100.0,1
+Trisha Yearwood,75.0,100.0,0
+Tristan Prettyman,10.0,20.0,1
+Triving Ivory,7.5,10.0,0
+Trombone Shorty,40.0,50.0,1
+Twists,10.0,15.0,0
+Tyga,50.0,50.0,1
+Tyler Hilton,5.0,10.0,0
+Tyler James,2.5,5.0,0
+"Tyler, The Creator",50.0,50.0,1
+Umphree's McGee,25.0,30.0,1
+Uncle Kracker,15.0,20.0,1
+Uncle Lucius,5.0,5.0,0
+Unwritten Law,10.0,20.0,0
+Usher,150.0,250.0,1
+Vampire Weekend,100.0,200.0,1
+Vanessa Carlton,12.0,15.0,1
+VersaEmerge,5.0,5.0,1
+Vertical Horizon,20.0,30.0,0
+Vienna Teng,5.0,10.0,0
+Wade Bowen,10.0,20.0,0
+Waka Flocka Flame,20.0,25.0,0
+Wale,50.0,50.0,1
+Walk Off The Earth,20.0,30.0,0
+Walk The Moon,40.0,60.0,0
+Wallpaper,5.0,10.0,0
+Watsky,10.0,20.0,0
+Wavves,5.0,10.0,0
+We Are Scientists,7.0,10.0,1
+We Are The Fallen,5.0,10.0,0
+We Are The In Crowd,10.0,15.0,0
+We The Kings,15.0,25.0,0
+Weezer,100.0,150.0,0
+Westland,1.0,1.0,1
+What Made Milwauke,5.0,5.0,0
+Wheeler Brothers,5.0,5.0,0
+White Panda,20.0,25.0,0
+Who's Bad,7.5,10.0,0
+Wild Cub,20.0,40.0,0
+Will Hoge,7.5,10.0,1
+Willie Nelson,100.0,200.0,0
+Wiz Khalifa,150.0,250.0,1
+Wyclef,70.0,100.0,0
+Xzibit,25.0,30.0,1
+Yeasayer,20.0,30.0,0
+Yelawolf,20.0,20.0,1
+Ying Yang Twins,10.0,15.0,0
+Yo Gotti,20.0,40.0,0
+Young Jeezy,75.0,100.0,0
+Young The Giant,70.0,100.0,0
+Yung Berg,15.0,20.0,0
+Yung Joc,15.0,20.0,0
+Zac Brown Band,250.0,400.0,1
+Ziggy Marley,75.0,100.0,1
